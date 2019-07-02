@@ -12,6 +12,8 @@ public class DemoApplicationTests {
     @Test
     public void contextLoads() {
         System.out.println(9999);
+        System.out.println(9999);
+        System.out.println(9999);
     }
 
 }
